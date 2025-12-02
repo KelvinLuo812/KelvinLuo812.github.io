@@ -1,4 +1,5 @@
-## Kelvin Luo's Portfolio
+
+# Kelvin Luo's Portfolio
 
 I am a electrical engineering major at CSUF and I will be graduating at 2029.
 
